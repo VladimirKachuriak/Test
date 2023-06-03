@@ -1,0 +1,24 @@
+From 20b55abbdebe5219fccbc101c1bda447497be2f8 Mon Sep 17 00:00:00 2001
+From: VladimirKachuriak <6989659@stud.nau.edu.ua>
+Date: Sat, 3 Jun 2023 18:56:10 +0200
+Subject: [PATCH] modify_1 firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 09f2335..39296a3 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line1
+-Line2
++ModifyLine1
++ModifyLine2
+ Line3
+ Line4
+ Line5
+-- 
+2.39.2.windows.1
+
